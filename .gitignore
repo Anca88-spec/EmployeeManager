@@ -9,6 +9,6 @@ target/
 
 .vscode/
 
-/src/main/resources/application.properties
+/src/main/resources/appication.properties
 .env
 
